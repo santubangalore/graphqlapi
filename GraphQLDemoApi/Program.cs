@@ -1,4 +1,5 @@
-using GraphQLDemoApi.Schema;
+using GraphQLDemoApi.Schema.Mutations;
+using GraphQLDemoApi.Schema.Queries;
 
 var builder = WebApplication.CreateBuilder(args);
 

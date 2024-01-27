@@ -1,8 +1,8 @@
-﻿namespace GraphQLDemoApi.Schema
+﻿namespace GraphQLDemoApi.Schema.Queries
 {
     public enum Subject
     {
-        MatheMatics,
+        Mathematics,
         Science,
         History
     }

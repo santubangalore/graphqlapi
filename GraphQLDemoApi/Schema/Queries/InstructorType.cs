@@ -1,6 +1,5 @@
-﻿namespace GraphQLDemoApi.Schema
+﻿namespace GraphQLDemoApi.Schema.Queries
 {
-    
     public class InstructorType
     {
         public Guid Id { get; set; }
