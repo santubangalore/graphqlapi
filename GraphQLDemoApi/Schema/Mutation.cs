@@ -19,7 +19,6 @@
                 Instructor = new InstructorType
                 {
                     Id = instructorId,
-
                 }
             };
 
